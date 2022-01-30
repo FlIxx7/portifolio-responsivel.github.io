@@ -1,4 +1,4 @@
-# Olá, tudo bem? Esse é um portfolio responsível :nerd_face:
+# Olá, tudo bem? Esse é um projeto de portfolio responsível :nerd_face:
 
 ### Os requisitos são :
 
